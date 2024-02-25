@@ -1,45 +1,46 @@
-h1{
+
+h1.h1{
+    text-align:center;
+    color:red ;
+    border-style: dotted;
+    background-color:white;
+    
     font-size: 20px;
     color:bliue;
-    
-
-}
-body{
-    background-color:yellow;
-    opacity: 0.7;
-    background-image: url("https://media1.giphy.com/media/KqAypdtpT4Ha6ho09Y/giphy.webp?cid=790b7611anhuqhki0c0fh2kjsw86j488ay1invx05nniq8uc&ep=v1_gifs_search&rid=giphy.webp&ct=g");
-
-
-}
-.centre{
-    text-align:center;
-    color:green ;
-    border-style: dotted;
-    border: 5px solid red;
-    
-}
-p {
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
+    margin-left: 20px;
   }
-.back{
-    color:yellow;
-    text-align:center;
-}
-p.one {
-    border-style: solid;
-    border-color: red;
+  div{
+    background-color: white:
+      border-style: red:
+    border-color: ;
+    border: 2px solid black;
+  
+    
+  }
+  p{
+    font-family: 'Courier New', Courier, monospace;
+    
+  }
+
+p.one{
+   
+    border-color: black;
   }
   
-  p.two {
-    border-style: solid;
+  p.two{
+    
     border-color: green;
   } 
-  /*
+  
   p.three {
-    border-style: dotted;
+   
     border-color: blue;
+    background-color: yellow;
   } 
-  */ 
+  body{
+    background-color: aquamarine;
+    
+  
+  
+  }
+ 
